@@ -1,6 +1,7 @@
-![preview](https://image.noelshack.com/fichiers/2023/43/3/1698215875-img-4661.jpg)
-![preview](https://image.noelshack.com/fichiers/2023/43/3/1698215818-img-4663.jpg)
-![preview](https://image.noelshack.com/fichiers/2023/43/3/1698215881-img-4662.jpg)
+<img src="https://image.noelshack.com/fichiers/2023/43/3/1698215875-img-4661.jpg" width="50%">
+<img src="https://image.noelshack.com/fichiers/2023/43/3/1698215818-img-4663.jpg" width="50%">
+<img src="https://image.noelshack.com/fichiers/2023/43/3/1698215881-img-4662.jpg" width="50%">
+
 
 #EN:
 This is the v2 of Homey e-paper (v1 is available [here](https://github.com/sebyldino/Homey_e-paper)
