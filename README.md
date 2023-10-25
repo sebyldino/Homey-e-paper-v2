@@ -4,6 +4,7 @@
 
 
 #EN:
+
 This is the v2 of Homey e-paper (v1 is available [here](https://github.com/sebyldino/Homey_e-paper)
 Homey e-paper get a quick view from your devices!
 Created from a LILYGO® T5-4.7 inch E-Paper. 
@@ -12,7 +13,10 @@ Show every device you want, where you want and when you want with Homey Flow.
 French Forum topic: [Here](https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193)
 English Forum topic: [Here](https://community.homey.app/t/homeyduino-e-paper-for-homey/74640)
 
+
+
 #Features:
+
 - Installation and update is easyest with OTA (Over The Air)
 - Touchscreen support (also works without) 
 - The buttons present on the board are taken into account in order to trigger actions in the flows
@@ -49,12 +53,15 @@ Seby
 
 
 #FR:
+
 Ceci est la v2 de Homey e-paper (la v1 est [ici](https://github.com/sebyldino/Homey_e-paper)
 Homey e-paper permet d'avoir une vue rapide sur vos appareils! 
 Créé à partir d'un LILYGO® T5-4.7 inch E-Paper.
 Fonctionne avec l'app Homeyduino Affichez n'importe quel appareil que vous souhaitez, où vous le souhaitez et quand vous le souhaitez. 
 Sujet forum français: [ICI](https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193)
 Sujet forum anglais: [ICI](https://community.homey.app/t/homeyduino-e-paper-for-homey/74640)
+
+
 
 #Caractéristiques:
 
