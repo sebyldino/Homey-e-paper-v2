@@ -1,5 +1,8 @@
-Ce sont les 3 fichiers nécessaires pour la méthode avec Flash Download Tool.
+For Flash Download Tool method, you need these 3 files.
+For AsyncElegantOTA method you only need the .ino.bin file.
 
-//////////////////////
+=========================================
 
-These are the 3 files needed for the Flash Download Tool method.
+Pour la métode Flash Download Tool, vous avez besoin de ces 3 fichiers.
+Pour la métode AsyncElegantOTA vous avez uniquement besoin du fichier .ino.bin
+
